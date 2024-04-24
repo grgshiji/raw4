@@ -3,8 +3,8 @@
   "type": "containerized",
   "blockId": "sEyG5DVhDZjVvupg9GaRy",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/raw4.git",
+    "ssh": "git@github.com:grgshiji/raw4.git",
     "branch": "block_raw4"
   },
   "parentBlockIDs": [],
