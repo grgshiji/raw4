@@ -1,0 +1,17 @@
+{
+  "name": "raw4",
+  "type": "containerized",
+  "blockId": "sEyG5DVhDZjVvupg9GaRy",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_raw4"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
